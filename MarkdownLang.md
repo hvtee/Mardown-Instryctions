@@ -1,6 +1,6 @@
-# Markdown Cheatsheet
+# **Markdown Cheatsheet**
 
-## Table of contents
+## **Table of contents**
 
 1. [Headers](#Headers)
 2. [Emphasis](#Emphasis)
@@ -8,7 +8,9 @@
 4. [Links](#Links)
 5. [Images](#Images)
 
-## Headers <a name="Headers"></a>
+<div id='Headers'/>
+
+## **Headers**
 To make a header you shoud use: "#". The more "#" you use, the lower the text is.<br>
 For example:
 
@@ -20,8 +22,9 @@ Alternative H1 title
 Alternative H2 title 
 ---
 
+<div id='Emphasis'/>
 
-## Emphasis <a name="Emphasis"></a>
+## **Emphasis**
 To make a curve text you shoud use "* *" or "_ _"around the word or text.<br>
 For example: *This is a curve text.*
 
@@ -34,7 +37,9 @@ For example: ***This is a curve and fat text.***
 To make a scratch text you shoud use "~~~~" around the word or text.<br>
 For example: ~~This is a scratched text.~~
 
-## Lists
+<div id='Lists'/>
+
+## **Lists**
 To make a list you can simply use "*", "+" or "-".<br>
 For example:
 * First element
@@ -72,7 +77,9 @@ For example:
         1. Getting
         1. Complex
 
-## Links
+<div id='Links'/>
+
+## **Links**
 The common way to create a link is to use a construction like: [text"]"(link) or [text"]"(link "promt") without "".<br>
 For example: [Google](https://google.com "Main google page")
 
@@ -85,3 +92,8 @@ For example: [Yandex][1].
 
 [1]: https://yandex.by/
 
+<div id='Images'/>
+
+## **Images**
+
+To insert an image you have to
