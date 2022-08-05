@@ -96,4 +96,11 @@ For example: [Yandex][1].
 
 ## **Images**
 
-To insert an image you have to
+To insert an image you have to use link to it, like in **link** part.
+
+[Markdown logo](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/1200px-Markdown-mark.svg.png "Markdow logo in browser")
+
+To insert a whole image you should simply put ! befor [].
+
+![Markdown logo](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/1200px-Markdown-mark.svg.png "Markdow logo in browser")
+
