@@ -111,13 +111,12 @@ To insert a whole image you should simply put ! befor [].
 # Part II
 
 
-## Table of content
+## **Table of content**
 1. [Sheets](#Sheets)
 2. [Quoting](#Quoting)
 3. [Footnotes](#Footnotes)
 4. [Videos](#Videos)
 
-<<<<<<< HEAD
 
 <div id='Sheets'/>
 
@@ -154,7 +153,7 @@ For example:
 >>This is level 2 quote.
 >>>This is level 3 quote.
 
-=======
+
 <div id='Footnotes'/>
 
 ## Footnotes
@@ -177,4 +176,4 @@ And [^note] this is also a footnote.
       a = a + 1;
    }
 ```
->>>>>>> footnotes
+
