@@ -117,6 +117,7 @@ To insert a whole image you should simply put ! befor [].
 3. [Footnotes](#Footnotes)
 4. [Videos](#Videos)
 
+<<<<<<< HEAD
 
 <div id='Sheets'/>
 
@@ -177,3 +178,14 @@ And [^note] this is also a footnote.
    }
 ```
 
+=======
+<div id='Videos'/>
+
+## Videos
+
+To insert a video you can use a following construction:
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=pTCROLZLhDM
+" target="_blank"><img src="http://img.youtube.com/vi/pTCROLZLhDM/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+>>>>>>> videos
