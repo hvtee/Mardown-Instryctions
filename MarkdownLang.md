@@ -117,3 +117,25 @@ To insert a whole image you should simply put ! befor [].
 3. [Footnotes](#Footnotes)
 4. [Videos](#Videos)
 
+<div id='Footnotes'/>
+
+## Footnotes
+
+Creating footnotes is similar to creating links. You should use [].<br>
+For example:
+
+This is[^1] a footnote.
+
+And [^note] this is also a footnote.
+
+[^1]: this is a footnote.
+
+[^note]: and this is a
+  footnote too.
+
+```cpp
+   if(a > b)
+   {
+      a = a + 1;
+   }
+```
