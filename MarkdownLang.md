@@ -117,6 +117,7 @@ To insert a whole image you should simply put ! befor [].
 3. [Footnotes](#Footnotes)
 4. [Videos](#Videos)
 
+
 <div id='Sheets'/>
 
 ## Sheets
@@ -128,3 +129,27 @@ For example:
 |:------|:-----:|------:|
 |smth   |smth   |smth   |
 |smth   |smth   |smth   |
+
+<div id='Quoting'/>
+
+## Quoting
+
+To create a quote you simly need to use ">"<br>
+For example:
+
+This is not a quote.<br>
+>But this is.
+
+>This is
+>another way
+>to create a qute.
+>Every line use 
+>this ">" symbol.
+
+Also you can create a levels of quoting.<br>
+For example:
+
+>This is level 1 quote.
+>>This is level 2 quote.
+>>>This is level 3 quote.
+
