@@ -117,3 +117,14 @@ To insert a whole image you should simply put ! befor [].
 3. [Footnotes](#Footnotes)
 4. [Videos](#Videos)
 
+<div id='Sheets'/>
+
+## Sheets
+
+To make a sheet just use "|" To adjust it use ":".<br>
+For example:
+
+|column1|column2|column3|
+|:------|:-----:|------:|
+|smth   |smth   |smth   |
+|smth   |smth   |smth   |
