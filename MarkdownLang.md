@@ -187,3 +187,5 @@ To insert a video you can use a following construction:
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 ## Text for push
+
+## Text for pull
